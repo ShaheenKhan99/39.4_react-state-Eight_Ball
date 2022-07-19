@@ -1,0 +1,30 @@
+.EightBall {
+  border: 2px solid lightslategray;
+  border-radius: 5px;
+  width: 300px;
+  background-color: azure;
+  margin:auto;
+}
+
+.EightBall-gameball {
+  box-shadow: 5px 5px 10px #678;
+  margin: 50px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.EightBall-button {
+  background-color: #bcd6f6;
+  display: block;
+  margin: 10px auto;
+  border-radius: 5px;
+  padding: 10px;
+}
